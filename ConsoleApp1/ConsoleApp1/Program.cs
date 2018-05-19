@@ -6,8 +6,9 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            int z = 1;
             int zahl = 6;
-            Console.WriteLine("{0}", zahl);
+            Console.WriteLine("{0} {1}", zahl, z);
             Console.ReadLine();
         }
     }
