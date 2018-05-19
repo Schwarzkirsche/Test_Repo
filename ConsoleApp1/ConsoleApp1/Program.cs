@@ -6,7 +6,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            int zahl = 7;
+            int zahl = 6;
             Console.WriteLine("{0}", zahl);
             Console.ReadLine();
         }
